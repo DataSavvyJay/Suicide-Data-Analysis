@@ -1,0 +1,1 @@
+## Sucide Data Analysis and Sucide Rate Prediction using ML
